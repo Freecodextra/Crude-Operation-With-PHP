@@ -31,10 +31,10 @@ I'm a full stack developer. I'm good at front-end and back-end as well. I uses P
 
 ## Screenshots
 
-![App Screenshot](./screenshot1.jpg)
-![App Screenshot](./screenshot2.jpg)
-![App Screenshot](./screenshot3.jpg)
-![App Screenshot](./screenshot4.jpg)
+![App Screenshot](./images/screenshot1.JPG)
+![App Screenshot](./images/screenshot2.JPG)
+![App Screenshot](./images/screenshot3.JPG)
+![App Screenshot](./images/screenshot4.JPG)
 
 
 ## Appendix
